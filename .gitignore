@@ -27,3 +27,4 @@ replay_pid*
 /mvnw
 /mvnw.cmd
 /target/
+/custom-http-connection-pool/target/
